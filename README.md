@@ -1,0 +1,2 @@
+# fakejenerator
+fake generator library
